@@ -1,6 +1,6 @@
 # 64 Personalities
 
-> **[Download for macOS (Apple Silicon)](https://github.com/dragontpe/sixty-four-personalities/releases/latest/download/64.Personalities_0.1.0_aarch64.dmg)** — open the DMG and drag to Applications
+> **[Download for macOS](https://github.com/dragontpe/sixty-four-personalities/releases/latest/download/64.Personalities_0.1.0_universal.dmg)** — works on both Apple Silicon and Intel Macs. Open the DMG and drag to Applications.
 
 A macOS desktop application that determines your six-dimension personality type through a 60-question assessment and generates a detailed PDF report.
 
