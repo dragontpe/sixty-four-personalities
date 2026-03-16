@@ -1,5 +1,7 @@
 # 64 Personalities
 
+> **[Download for macOS (Apple Silicon)](https://github.com/dragontpe/sixty-four-personalities/releases/latest/download/64.Personalities_0.1.0_aarch64.dmg)** — open the DMG and drag to Applications
+
 A macOS desktop application that determines your six-dimension personality type through a 60-question assessment and generates a detailed PDF report.
 
 Extends the classic 16-type MBTI framework with two additional dimensions (Identity: Assertive/Turbulent, Orientation: Cooperative/Self-directed) to produce 64 distinct personality profiles.
